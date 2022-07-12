@@ -1,2 +1,2 @@
 # RestoranApp
- restoranmaplocation
+Restaurant App
